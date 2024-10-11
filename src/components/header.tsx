@@ -12,7 +12,7 @@ const navLinks = [
     label: "Posts",
   },
   {
-    href: "create-post",
+    href: "/create-post",
     label: "Create post",
   },
 ] as const;
