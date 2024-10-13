@@ -20,7 +20,7 @@ The Blog Application is a web-based platform that allows users to create, manage
 1. Clone the repository:
    ```bash
    https://github.com/Aadith-tech/Blog_App_Nextjs.git
-   cd blog-app
+   cd Blog_App_Nextjs
    npm install
    npm run dev
 
