@@ -23,6 +23,5 @@ The Blog Application is a web-based platform that allows users to create, manage
    cd blog-app
    npm install
    npm run dev
-```
 
 
